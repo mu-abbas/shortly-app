@@ -30,7 +30,7 @@ Users should be able to:
 ![](./design/desktop-design.jpg)
 
 <p align="center">
-  <img src="./Design/mobile-design.jpg" />
+  <img src="./design/mobile-design.jpg" />
 </p>
 
 ### Links
