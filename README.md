@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Design/desktop-preview.jpg)
-![](./Design/desktop-design.jpg)
+![](./design/desktop-preview.jpg)
+![](./design/desktop-design.jpg)
 
 <p align="center">
   <img src="./Design/mobile-design.jpg" />
