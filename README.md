@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Fronend Mentor](#)
+- Solution URL: [Fronend Mentor](https://www.frontendmentor.io/solutions/shortly-url-shortening-api-challenge-hdLzgDsQZl)
 - Live Site URL: [Netlify](https://mu-shortly.netlify.app/)
 
 ### Built with
