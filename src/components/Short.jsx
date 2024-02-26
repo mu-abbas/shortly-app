@@ -27,7 +27,7 @@ export default function Short({ short, setShorts }) {
         </a>
       </div>
 
-      <div className="flex flex-col gap-2 md:gap-4 md:flex-row md:ml-auto">
+      <div className="flex flex-col gap-2 md:gap-4 md:flex-row md:ml-auto items-center">
         <a href={short.short_url} className="text-cyan">
           {short.short_url}
         </a>
