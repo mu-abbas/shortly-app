@@ -3,7 +3,7 @@ import Nav from './Nav';
 
 export default function Header() {
   return (
-    <header>
+    <header className="relative">
       <Nav />
       <Hero />
     </header>

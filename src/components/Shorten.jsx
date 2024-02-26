@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import bgMobile from '../assets/images/bg-shorten-mobile.svg';
+import bgDesktop from '../assets/images/bg-shorten-desktop.svg';
 
 export default function Shorten({ setShorts }) {
   const [url, setUrl] = useState('');
@@ -47,7 +48,8 @@ export default function Shorten({ setShorts }) {
           Shorten It!
         </button>
       </form>
-      <img src={bgMobile} alt="background" className="absolute bottom-[25%] right-0" />
+      <img src={bgMobile} alt="background" className="absolute bottom-[25%] right-0 md:hidden" />
+      <img src={bgDesktop} alt="background" className="absolute top-0 left-0 hidden md:block min-h-full" />
     </section>
   );
 }

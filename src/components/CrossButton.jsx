@@ -1,7 +1,4 @@
-import { useState } from 'react';
-
-export default function CrossButton() {
-  const [isOpen, setIsOpen] = useState(false);
+export default function CrossButton({ isOpen, setIsOpen }) {
   return (
     <button className="lg:hidden size-8 relative" onClick={() => setIsOpen(isOpen => !isOpen)}>
       <span

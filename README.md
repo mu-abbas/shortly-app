@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Fronend Mentor](#)
-- Live Site URL: [Netlify](#)
+- Live Site URL: [Netlify](https://mu-shortly.netlify.app/)
 
 ### Built with
 
